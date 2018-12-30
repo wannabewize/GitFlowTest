@@ -1,0 +1,11 @@
+{
+  "name": "git-flow-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wannabewize/GitFlowTest.git",
+  "author": "wannabewize <wannabewize@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
